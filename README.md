@@ -7,6 +7,6 @@ The objective  of the clean water act is to 'restore and maintain the chemical, 
 
 This project seeks to explore how drainage basin characteristics differ in least disturbed high quality Connecticut streams that support highly sensitive taxa compared to streams with more human alteration and .  This information will be used to identify and map the high quality streams across the State of Connecticut.  This type of information could be used to target and support protective management efforts for these streams.
 
-[The final map](https://marybecker.github.io/HighQualityStreams/)
+[Interactive Map - Draft - Dec. 2020](https://marybecker.github.io/HighQualityStreams/)
 
 [Details on the analysis](https://github.com/marybecker/HighQualityStreams/blob/main/notebooks/HealthyWaters.ipynb)
